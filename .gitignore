@@ -1,0 +1,7 @@
+.DS_Store
+**/..DS_Store
+trash/
+temp/
+**/*.tgz
+prometheus_old/
+*.sh
